@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamprajapati45&label=Profile%20views&color=0e75b6&style=flat" alt="shivamprajapati45" /> </p>
 
-- 🌱 I’m currently learning **Backend and Database**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamPrajapati45?tab=repositories](https://github.com/ShivamPrajapati45?tab=repositories)
 
 - 📫 How to reach me **prajapatishivam55296@gmail.com**
