@@ -23,10 +23,6 @@
 
 ###
 
-<h6 align="left">- 🔭 I’m looking for a Job<br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I eat</h6>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
