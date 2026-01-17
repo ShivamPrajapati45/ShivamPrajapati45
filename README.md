@@ -5,11 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=shivamprajapati45&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/shivamprajapati45)
-[![GitHub followers](https://img.shields.io/github/followers/shivamprajapati45?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/shivamprajapati45)
-[![GitHub Stars](https://img.shields.io/github/stars/shivamprajapati45?label=Stars&style=for-the-badge&color=00D9FF)](https://github.com/shivamprajapati45)
-  
 </div>
 
 ---
