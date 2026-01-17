@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=shivamprajapati45&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/shivamprajapati45)
 [![GitHub followers](https://img.shields.io/github/followers/shivamprajapati45?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/shivamprajapati45)
 [![GitHub Stars](https://img.shields.io/github/stars/shivamprajapati45?label=Stars&style=for-the-badge&color=00D9FF)](https://github.com/shivamprajapati45)
-
+  
 </div>
 
 ---
@@ -83,40 +83,6 @@ const shivam = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamprajapati45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamprajapati45&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamprajapati45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamprajapati45&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-</div>
----
-
-## 🎯 Current Focus
-
-```diff
-+ Building scalable full-stack applications with modern tech stack
-+ Exploring microservices architecture and cloud technologies
-+ Contributing to open source projects
-+ Learning advanced system design patterns
-```
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 ---
