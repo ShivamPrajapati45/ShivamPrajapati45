@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Welcome to Shivam's Digital Universe 🌟
+# 🌟 Welcome to Shivam's Code Base 🌟
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
