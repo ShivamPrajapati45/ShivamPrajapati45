@@ -82,10 +82,6 @@ const shivam = {
 
 <div align="center">
 
-### 💬 Let's Connect and Build Something Amazing Together!
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ### Show some ❤️ by starring some of my repositories!
